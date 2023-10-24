@@ -57,7 +57,7 @@ class Cafe {
                     System.out.println("a. Pepsi\n b. Maza\n c. Coke\n");
                     break;
 
-                default :  // ayan nallah
+                default :  // siddhant nallah
                     System.out.println("ENTERED CHOICE IS INVALID");
                     break;
             }
